@@ -1,0 +1,37 @@
+TO SEND YOUR CHANGES TO TEAM 
+
+1) Make changes to local folder 
+
+2) Open the desktop git 
+
+3) Write Summary of your changes
+
+4) Click on [Commit to your "Name"]
+
+5) Click on [Send pull Request]-- on right hand side
+
+6) Go to gitHub.com
+
+7) Go to Repository and then click on Pull Request in NavBar
+
+8) Click on your change
+
+9) Click Greeen Button Merge Pull Request
+
+10) Confirm Merge
+
+
+TO GET UPDATE
+
+1) GO to desktop Git
+
+2) Change Branch to master
+
+3) CLick on Sync Button 
+
+4) Then Go back to your branch
+
+5) Click Update from Master
+
+6) Open local folder to see changes that your team made 
+ 
